@@ -22,5 +22,7 @@ void loop() {
       // do things
     }
   }
+  // Send BT messages
+    BT.print("hola");
 
 }
