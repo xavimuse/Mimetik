@@ -1,0 +1,13 @@
+/OF/*.*
+/OF/addons
+/OF/docs
+/OF/examples
+/OF/export
+/OF/libs
+/OF/other
+/OF/projectGenerator-osx
+/OF/projectGenerator-vs
+/OF/scripts
+/OF/apps/myApps/emptyExample
+/OF/apps/myApps/mimetik/*.*
+/OF/apps/myApps/mimetik/Makefile
